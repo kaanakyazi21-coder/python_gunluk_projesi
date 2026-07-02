@@ -4,6 +4,10 @@ Streamlit ile geliştirilmiş, kullanıcı girişi olan kişisel günlük (dijit
 uygulaması. Kullanıcılar günlük yazabilir, ruh hallerini takip edebilir ve
 istatistiklerini grafiklerle görebilir.
 
+| Günlük Ekleme | Ruh Hali İstatistikleri |
+|---|---|
+| ![Günlük Ekleme](docs/gunluk_ekle.png) | ![İstatistikler](docs/istatistik.png) |
+
 ## Özellikler
 
 - **Kullanıcı sistemi**: Kayıt olma ve giriş yapma (şifreler SHA-256 ile hashlenerek saklanır)
